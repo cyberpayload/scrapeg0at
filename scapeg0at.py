@@ -1,10 +1,7 @@
 #! python3
 
 import requests
-import pprint
 import re
-from bs4 import BeautifulSoup
-from xeger import Xeger
 import rstr
 import time
 #This program is to scrape the current Linkedin occupation of someone.
